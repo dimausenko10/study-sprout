@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D green sprout with two leaves in a small cream ceramic pot, centered, soft radial gradient background from pale lime to sage green, crisp, clean, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, very dark forest green study garden at night, deep shadowed foliage, subtle warm rim light, cinematic, low detail, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, bright airy academic garden, cream paper tone with soft sage green leaves at the edges, lots of empty space in the middle, editorial, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, soft blurred pale green and cream garden bed, very low contrast, flat and even for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_seed",
+      "type": "sprite",
+      "prompt": "One single cute cartoon brown seed with a tiny crack, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_sprout",
+      "type": "sprite",
+      "prompt": "One single cute cartoon green sprout with two small leaves, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_leafy",
+      "type": "sprite",
+      "prompt": "One single cute cartoon leafy green plant with four broad leaves, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_bloom",
+      "type": "sprite",
+      "prompt": "One single cute cartoon blooming plant with one warm orange flower and green leaves, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_leaf",
+      "type": "sprite",
+      "prompt": "One single cute cartoon green leaf, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}
